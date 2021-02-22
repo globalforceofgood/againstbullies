@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "ကိုမင်းကိုနိုင်၏ ဗျူဟာများ"
-date:       2021-02-21 00:06:00 +0630
+date:       2021-02-22 00:06:00 +0630
 categories: [ပြည်တွင်း, ဗျူဟာ, မူဘောင်]
 ---
 
@@ -15,13 +15,19 @@ categories: [ပြည်တွင်း, ဗျူဟာ, မူဘောင်
 6. [၁၄/၂/၂၀၂၁ CDM အရေးကြီး ဆုံး ရက်သတ္တပါတ်](https://www.facebook.com/100044259888055/videos/418149119284738)
 7. [၁၆/၂/၂၀၂၁ စစ်တိုက်တတ်ရုံနဲ့…](https://www.facebook.com/100044259888055/videos/252359333194922)
 8. [၁၈/၂/၂၀၂၁ RFA အင်တာဗျူး](https://www.facebook.com/100044259888055/videos/440494543661770)
+9. [၂၁/၂/၂၀၂၁ ဘယ်ကျည်နဲ့ ပစ်ပစ်…](https://www.facebook.com/artistminkonaing/videos/447958073304516/)
 
+## အထောက်အထား ပြည့်ပြည့်စုံ
+
+---
+
+<img src="/{{ site.baseurl }}/assets/mkn-cdm.png" height="400">
 
 ## လူထုအာခံမှု CDM
 
 ---
 
-<img src="/{{ site.baseurl }}/assets/mkn-cdm.png" height="800">
+<img src="/{{ site.baseurl }}/assets/mkn-cdm.png" height="900">
 
 ## ဆန္ဒပြခြင်း
 
