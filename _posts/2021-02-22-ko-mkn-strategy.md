@@ -21,7 +21,7 @@ categories: [ပြည်တွင်း, ဗျူဟာ, မူဘောင်
 
 ---
 
-<img src="/{{ site.baseurl }}/assets/mkn-cdm.png" height="400">
+<img src="/{{ site.baseurl }}/assets/mkn-evidence.png" height="400">
 
 ## လူထုအာခံမှု CDM
 
